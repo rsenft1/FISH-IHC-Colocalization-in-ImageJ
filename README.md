@@ -17,7 +17,7 @@ This [Fiji](https://imagej.net/Fiji "Fiji") macro allows a user to perform semi-
 3. _Advanced Options..._ allow the user to tweak parameters for segmentation and image processing.
     * Automatic thresholding is greatly enhanced with the [Adjustable Watershed plugin](https://imagejdocu.tudor.lu/doku.php?id=plugin:segmentation:adjustable_watershed:start) written by Michael Schmid.
      * Without this plugin, the macro still runs, but will prompt the user to adjust the watershed for each image if an automatic thresholding method is selected. At that point, the user can run the regular watershed function (_Process > Binary > Watershed_) or decide not to watershed and just click _Ok_. 
- 4. The output of this macro includes several types of overview images with cell outlines for both channels to assess segmentation and puncta counting accuracy and a .csv table with cell measurements, colocalization assessment, and RNAscope puncta counts per cell. 
+ 4. The output of this macro includes several types of overview images with cell outlines for both channels to assess segmentation and puncta counting accuracy, a .txt log file with information about the parameters used for the analysis to aid reproducibility, and a .csv table with cell measurements, colocalization assessment, and RNAscope puncta counts per cell. 
 
 ## Citation
 * If using or adapting this macro for your own use, please cite the original authors in any resulting research publications.
