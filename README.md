@@ -1,4 +1,4 @@
-# RNAscope-IHC 2D colocalization and puncta counting macro
+# FISH-IHC 2D colocalization and puncta counting macro
 
 This [Fiji](https://imagej.net/Fiji "Fiji") macro allows a user to perform semi-automated quantification of 2D IHC colocalization and RNAscope puncta counting in fluorescent microscopy images. 
 
