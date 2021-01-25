@@ -20,7 +20,9 @@ This [Fiji](https://imagej.net/Fiji "Fiji") macro allows a user to perform semi-
  4. The output of this macro includes several types of overview images with cell outlines for both channels to assess segmentation and puncta counting accuracy, a .txt log file with information about the parameters used for the analysis to aid reproducibility, and a .csv table with cell measurements, colocalization assessment, and RNAscope puncta counts per cell. 
 
 ## Citation
-* If using or adapting this macro for your own use, please cite the original authors in any resulting research publications.
+* If using or adapting this macro for your own use, please cite the original authors in any resulting research publications:
+    * Benjamin W. Okaty*, Nikita Sturrock*, Yasmin Escobedo Lozoya, YoonJeung Chang, Rebecca A. Senft, Krissy A. Lyon, Olga V. Alekseyenko and Susan M. Dymecki.  A single-cell transcriptomic and anatomic atlas of mouse dorsal raphePet1 neurons. (2020) Elife.
+    * Asterisk indicates co-first authorship.
 ## Error reporting
  * Please report any errors or crashes you receive to [Rebecca Senft](mailto:senftrebecca@gmail.com)
 
